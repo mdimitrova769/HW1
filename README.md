@@ -6,8 +6,8 @@ The repo contains the programming assignment for Homework 1 in CS445 class.
 - The project is a submission for HW1 
 
 ## What API does this project implement?
-- The API description of the project is here
-- The documentation and the description of the project is here
+- The API description of the project is http://cs.iit.edu/~virgil/cs445/mail.spring2022/homeworks/HW-1/docs/index.html
+- The documentation and the description of the project is http://cs.iit.edu/~virgil/cs445/mail.spring2022/homeworks/HW-1/hw1.html 
 
 ## How do I run and build the project?
 
