@@ -18,9 +18,11 @@ The repo contains the programming assignment for Homework 1 in CS445 class.
 ```
 cd ~/Downloads
 ```
+Make sure to extract the file directory
 
+The build.gradle file can be found here:
 ```
-cd HW1-gradle
+cd HW1-gradle-new/app
 ```
 
 ```
