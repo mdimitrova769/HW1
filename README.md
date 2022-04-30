@@ -22,7 +22,7 @@ Make sure to extract the file directory
 
 The build.gradle file can be found here:
 ```
-cd HW1-gradle-new/app
+cd HW1-gradle-finalVersion/app
 ```
 
 ```
@@ -32,6 +32,8 @@ cd HW1-gradle-new/app
 ```
 
 ## Test report
+JacocoTestReport coverage of 51%. 
+
 The test report html file can be found in the repository.
 
 ## Who do I talk to?
