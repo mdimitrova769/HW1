@@ -22,7 +22,7 @@ Make sure to extract the file directory
 
 The build.gradle file can be found here:
 ```
-cd HW1-gradle-finalVersion/app
+cd HW1-gradle-FINALVersion
 ```
 
 ```
